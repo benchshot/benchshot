@@ -16,8 +16,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=notyourswiftdev&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=notyourswiftdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <img src="https://github.com/user-attachments/assets/4a34eec7-3f64-4edb-a01f-8075d92280ab" width="400px"></img>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
